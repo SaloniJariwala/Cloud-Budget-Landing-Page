@@ -1,13 +1,5 @@
 import styled from "styled-components";
 
-export const BannerWrapper = styled.div`
-    height: 782px;
-    background-image: url('/images/bg.jpg');
-    .container{
-        margin: 0 auto;
-    }
-`;
-
 export const Navlink = styled.a`
     color: #fff;
     text-decoration: none;
