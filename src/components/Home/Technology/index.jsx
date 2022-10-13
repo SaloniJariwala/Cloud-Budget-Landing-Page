@@ -41,7 +41,7 @@ const Technology = () => {
                                     <span className="number">
                                         {item.number}
                                     </span>
-                                    <img src={item.imgUrl} className="logo" />
+                                    <img src={item.imgUrl} alt="logo" className="logo" />
                                 </div>
                                 <span className="title-text">{item.title}</span>
                                 <div className="content">
